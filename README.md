@@ -8,4 +8,7 @@ start the project
 
 
 operate the docker compose in api file
+
 2. docker build -t my-app/express-api:latest-dev .
+
+3. docker run -t my-app/express-api:latest-dev
